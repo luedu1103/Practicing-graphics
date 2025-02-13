@@ -1,0 +1,5 @@
+main
+main.o
+model.o
+output.tga
+tgaimage.o
